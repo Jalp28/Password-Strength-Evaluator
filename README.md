@@ -9,7 +9,6 @@
 
 ### 4.Scores and Feedback from the Password Strength Tool
 ## Evaluated Passwords and Tool Feedback
-
 - **Password 1: "admin"**
   - **Score**: 7% (Very Weak)
   - **Feedback**: Too short (10 characters), uses a common word ("admin,password") and a simple number sequence ("123"). Highly vulnerable to dictionary and brute force attacks. Recommendation: Increase length to 12+ characters, add symbols, and avoid predictable patterns.
